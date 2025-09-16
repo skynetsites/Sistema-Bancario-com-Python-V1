@@ -23,7 +23,7 @@ Este projeto faz parte do desafio do curso de Python da DIO. Trata-se de um sist
 ## 🚀 Como Executar
 Clone o repositório, entre no diretório do projeto e execute o script principal:
 
-git clone https://github.com/seu-usuario/sistema-bancario-com-python-v1.git  
+git clone https://github.com/skynetsites/sistema-bancario-com-python-v1.git  
 cd sistema-bancario-com-python-v1  
 python sistema_bancario_v1.py  
 
