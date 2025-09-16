@@ -49,16 +49,4 @@ Saque: R$ 200.00
 Saldo: R$ 800.00
 ==========================================
 
-
-## 🤝 Contribuição
-Contribuições são bem-vindas!  
-1. Faça um fork do projeto.  
-2. Crie uma branch para sua feature: `git checkout -b minha-feature`.  
-3. Faça commit das alterações: `git commit -m 'Minha nova feature'`.  
-4. Envie para o repositório remoto: `git push origin minha-feature`.  
-5. Abra um Pull Request.
-
-## 📄 Licença
-Este projeto está sob a licença MIT.
-
-**Desafio concluído! Um projeto prático do curso DIO de Python para você explorar, testar e aprimorar suas habilidades.**
+Desafio concluído! Um projeto prático do curso DIO de Python para você explorar, testar e aprimorar suas habilidades.
