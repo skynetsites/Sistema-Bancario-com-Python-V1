@@ -27,27 +27,28 @@ git clone https://github.com/seu-usuario/sistema-bancario-com-python-v1.git
 cd sistema-bancario-com-python-v1  
 python sistema_bancario_v1.py  
 
-📌 Exemplo de uso no terminal:
+## 📌 Exemplo de uso no terminal
+```text
+[d] Depositar
+[s] Sacar
+[e] Extrato
+[q] Sair
 
-[d] Depositar  
-[s] Sacar  
-[e] Extrato  
-[q] Sair  
+=> d
+Informe o valor do depósito: 1000
+Depósito de R$ 1000.00 realizado com sucesso!
 
-=> d  
-Informe o valor do depósito: 1000  
-Depósito de R$ 1000.00 realizado com sucesso!  
+=> s
+Informe o valor do saque: 200
+Saque de R$ 200.00 realizado com sucesso!
 
-=> s  
-Informe o valor do saque: 200  
-Saque de R$ 200.00 realizado com sucesso!  
-
-=> e  
-================ EXTRATO ================  
-Depósito: R$ 1000.00  
-Saque: R$ 200.00  
-Saldo: R$ 800.00  
+=> e
+================ EXTRATO =================
+Depósito: R$ 1000.00
+Saque: R$ 200.00
+Saldo: R$ 800.00
 ==========================================
+
 
 ## 🤝 Contribuição
 Contribuições são bem-vindas!  
