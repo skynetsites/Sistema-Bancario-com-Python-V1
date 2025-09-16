@@ -49,4 +49,5 @@ Saque: R$ 200.00
 Saldo: R$ 800.00
 ==========================================
 
-Desafio concluído! Um projeto prático do curso DIO de Python para você explorar, testar e aprimorar suas habilidades.
+Desafio concluído!
+Um projeto prático do curso DIO de Python para você explorar, testar e aprimorar suas habilidades.
